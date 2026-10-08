@@ -7,7 +7,7 @@ Wildlife increasingly inhabit fragmented, human-modified habitats. Locomotion in
 **Keywords:** Accelerometry, Overall Dynamic Body Acceleration, Human-modified landscape, movement ecology, mesocarnivores
 
 ## Contents
-mesocarnivore_energetics/
+Mesocarnivore_energetics/
 ├── data/
 │ ├── jackal_odba.csv
 │ ├── fox_odba.csv
@@ -109,7 +109,7 @@ If you use this data or code, please cite the associated manuscript:
 
 Nandy, S., Vanak, A.T., Thaker, M. (in review). Locomotion costs (ODBA) for mesocarnivores in an agro-ecosystem in India. *Proceedings of the Royal Society B*.
 
-A full citation with volume, page numbers, and DOI will be added once the manuscript is published. In the meantime, this repository itself can be cited directly via its Zenodo DOI: 
+A full citation with volume, page numbers, and DOI will be added once the manuscript is published. In the meantime, this repository itself can be cited directly via its Zenodo DOI: https://doi.org/10.5281/zenodo.23250628
 
 ## Contact
 
